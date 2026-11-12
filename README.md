@@ -49,7 +49,9 @@ Video demonstrasi SportKu berdurasi 1–2 menit yang memperlihatkan:
 - Navigasi menuju panduan olahraga.
 - Contoh pengujian input tidak valid.
 
-**Link Video Demo:** Tambahkan tautan video di sini.
+Berikut adalah video demonstrasi penggunaan aplikasi SportKu:
+
+**Video Demo Aplikasi:** 👉 [**Tonton Video Demo SportKu (MP4)**](https://drive.google.com/drive/folders/1UQjCUsWu1Q9UapVxREbpa-B-vmSMXcbT?usp=sharing)
 
 ---
 
