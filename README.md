@@ -4,37 +4,18 @@
 
 Aplikasi ini dikembangkan menggunakan Kotlin dan XML Layout di Android Studio sebagai project tugas mata kuliah **Pemrograman Mobile**.
 
-##  Fitur & Tampilan Aplikasi
+## 📱 Fitur & Tampilan Aplikasi
 
-### 1. Beranda (HomeActivity)
+<p align="center">
+  <img src="screenshot%20home.jpeg" width="180" />
+  <img src="screenshot%20input.jpeg" width="180" />
+  <img src="screenshot%20hasil.jpeg" width="180" />
+  <img src="screenshot%20tips.jpeg" width="180" />
+</p>
 
-
-
-Halaman utama SportKu menampilkan sambutan dan fitur aplikasi.
-
-Halaman utama SportKu menampilkan sambutan kepada pengguna, pengenalan aplikasi, dan beberapa fitur yang tersedia. Terdapat tombol **Mulai Sekarang** untuk menuju halaman input data serta tombol **Lihat Panduan Olahraga** untuk membuka informasi aktivitas olahraga.
-
-### 2. Input Data Pengguna (MainActivity)
-
-
-
-Pada halaman ini, pengguna dapat memasukkan informasi berupa nama, berat badan, tinggi badan, usia, jenis aktivitas olahraga, dan durasi olahraga. Data tersebut akan diproses untuk menghasilkan informasi kebugaran tubuh.
-
-### 3. Hasil Perhitungan (HasilActivity)
-
-
-
-Halaman hasil menampilkan informasi berdasarkan data yang telah dimasukkan pengguna, meliputi:
-- Nilai BMI dan kategori indeks massa tubuh.
-- Perkiraan kebutuhan kalori.
-- Zona detak jantung.
-- Rekomendasi untuk mendukung aktivitas dan kebugaran tubuh.
-
-### 4. Panduan Olahraga (TipsActivity)
-
-
-Halaman ini menyediakan informasi beberapa aktivitas olahraga, seperti jalan kaki, jogging, bersepeda, dan latihan kardio. Setiap aktivitas dilengkapi deskripsi singkat serta rekomendasi durasi agar pengguna memiliki referensi dalam memilih olahraga.
-
+| **Beranda (HomeActivity)** | **Input Data (MainActivity)** | **Hasil Perhitungan (HasilActivity)** | **Panduan Olahraga (TipsActivity)** |
+|---|---|---|---|
+| Menampilkan halaman utama SportKu dan tombol navigasi menuju fitur aplikasi. | Digunakan untuk memasukkan data pengguna seperti nama, berat badan, tinggi badan, usia, dan aktivitas olahraga. | Menampilkan hasil perhitungan BMI, kategori BMI, kebutuhan kalori, dan zona detak jantung. | Menyediakan panduan aktivitas olahraga seperti jalan kaki, jogging, bersepeda, dan kardio.</escape>
 ##  Teknologi & Komponen
 
 - **Bahasa Pemrograman:** Kotlin.
