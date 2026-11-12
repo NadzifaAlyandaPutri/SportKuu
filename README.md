@@ -8,9 +8,7 @@ Aplikasi ini dikembangkan menggunakan Kotlin dan XML Layout di Android Studio se
 
 ### 1. Beranda (HomeActivity)
 
-### 1. Beranda (HomeActivity)
 
-![Beranda SportKu](screenshots/screenshot_home.jpeg)
 
 Halaman utama SportKu menampilkan sambutan dan fitur aplikasi.
 
@@ -19,13 +17,12 @@ Halaman utama SportKu menampilkan sambutan kepada pengguna, pengenalan aplikasi,
 ### 2. Input Data Pengguna (MainActivity)
 
 
-![Input Data SportKu](screenshots/screenshot_input.jpeg)
 
 Pada halaman ini, pengguna dapat memasukkan informasi berupa nama, berat badan, tinggi badan, usia, jenis aktivitas olahraga, dan durasi olahraga. Data tersebut akan diproses untuk menghasilkan informasi kebugaran tubuh.
 
 ### 3. Hasil Perhitungan (HasilActivity)
 
-![Hasil Perhitungan SportKu](screenshots/screenshot_hasil.jpeg)
+
 
 Halaman hasil menampilkan informasi berdasarkan data yang telah dimasukkan pengguna, meliputi:
 - Nilai BMI dan kategori indeks massa tubuh.
@@ -35,7 +32,6 @@ Halaman hasil menampilkan informasi berdasarkan data yang telah dimasukkan pengg
 
 ### 4. Panduan Olahraga (TipsActivity)
 
-![Panduan Olahraga SportKu](screenshots/screenshot_tips.jpeg)
 
 Halaman ini menyediakan informasi beberapa aktivitas olahraga, seperti jalan kaki, jogging, bersepeda, dan latihan kardio. Setiap aktivitas dilengkapi deskripsi singkat serta rekomendasi durasi agar pengguna memiliki referensi dalam memilih olahraga.
 
