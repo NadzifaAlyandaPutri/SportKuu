@@ -40,15 +40,6 @@ app/src/main/res/layout/     # activity_main.xml, activity_hasil.xml, item spinn
 1. Clone / ekstrak project
 2. Android Studio → **Open** → pilih folder `SportKu`
 3. Tunggu Gradle Sync (perlu JDK 17 — bawaan Android Studio terbaru sudah cukup)
-4. Run ▶ di emulator / HP (minSdk 24)
+4. Run ▶ di emulator / HP
 
-## Skenario uji (untuk video demo)
-| Kasus | Input | Hasil yang diharapkan |
-|---|---|---|
-| Valid | Budi Santoso, 65.5 kg, 170 cm, 21 th, Lari, 45 mnt | BMI 22.7 Normal, ±481 kkal, zona 119–159 bpm |
-| Nama kosong | (kosongkan nama) | Error di kolom Nama, tetap di layar 1 |
-| Berat kosong | (kosongkan berat) | Error di kolom Berat |
-| Tinggi di luar rentang | 500 | Error "antara 100 dan 250 cm" |
-| Umur di luar rentang | 5 | Error "antara 10 dan 80 tahun" |
 
-> Hasil berupa estimasi umum dan bukan pengganti saran medis.
